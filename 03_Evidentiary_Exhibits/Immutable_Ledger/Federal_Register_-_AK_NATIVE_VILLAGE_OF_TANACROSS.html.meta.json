@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+TANACROSS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+TANACROSS",
+  "title": "Federal Register - AK NATIVE VILLAGE OF TANACROSS",
+  "fetched_at": "2026-11-23T16:23:46.432118Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 219697,
+  "sha256": "5cf0b65a081b6593b38535de4345f7d53e4fcffed6b2636ece67a20f80b50052",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
